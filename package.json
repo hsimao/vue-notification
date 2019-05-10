@@ -1,5 +1,5 @@
 {
-  "name": "vue-notification",
+  "name": "mars-vue-notification",
   "version": "0.1.0",
   "main": "src/components/Notification",
   "description": "vue notification component",
