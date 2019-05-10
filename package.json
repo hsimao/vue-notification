@@ -1,7 +1,14 @@
 {
-  "name": "notification",
+  "name": "vue-notification",
   "version": "0.1.0",
-  "private": true,
+  "main": "src/components/Notification",
+  "description": "vue notification component",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/hsimao/vue-notification"
+    }
+  ],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
