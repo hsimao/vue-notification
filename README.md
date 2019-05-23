@@ -29,7 +29,10 @@ export default {
     setTimeout(() => {
       this.$notify({
         content: "test message...",
-        btn: "close"
+        btn: "close",
+        btnTextColor: "green", // default: #ff4081
+        textColor: "yellow", // default: #fff
+        bgColor: "blue" // default: #303030
       });
     }, 1000)
   }
